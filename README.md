@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-johnagan-buildinglink-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-johnagan-buildinglink-mcp)
+
 # BuildingLink MCP Server
 
 This is a MCP server for BuildingLink. It enables you to collect your LLM to data from BuildingLink.
